@@ -1,16 +1,14 @@
-### Hi there 👋
+👋 Hello there! 
+I'm a data engineer with over 2 years of experience, specializing in building robust and scalable data pipelines for various organizations. I'm passionate about solving complex data challenges and enabling data-driven decision making.
 
-<!--
-**vienvandung312/vienvandung312** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 My technical skills include:
 
-Here are some ideas to get you started:
+- Airflow: designing, implementing, and managing complex workflows for data processing, ETL, and analytics.
+- Docker: containerizing and deploying data pipelines in scalable environments.
+- Spark: processing and analyzing big data using distributed computing and parallel processing.
+- Kafka: building event-driven architectures for real-time data streaming and processing.
+- Airbyte: integrating and replicating data across multiple sources and destinations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Apart from technical skills, I'm a team player with excellent communication and problem-solving skills. I'm always eager to learn and explore new technologies to stay up-to-date with the latest industry trends.
+
+💬 Feel free to check out my projects and contributions on GitHub. Let's connect and collaborate on interesting data projects!
